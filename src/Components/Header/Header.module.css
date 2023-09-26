@@ -1,0 +1,19 @@
+.header_heading {
+    display: flex;
+    place-content: center;
+    align-items: center;
+    min-height: 33px;
+    background-color: rgba(241, 157, 47, 1);
+
+}
+
+.header_heading_text {
+    padding: 0 3px;
+    font-size: 12.69px;
+}
+
+.header_logo {
+    display: flex;
+    place-content: center;
+    background-color: rgba(255, 209, 172, 1);
+}

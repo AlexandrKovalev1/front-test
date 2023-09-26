@@ -1,0 +1,9 @@
+.product_wrapper {
+    width: 80px;
+    height: 66px;
+    border-radius: 10px;
+}
+
+.active {
+    opacity: 40%;
+}

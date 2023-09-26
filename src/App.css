@@ -1,0 +1,14 @@
+.App {
+  margin: 0 auto;
+  max-width: 390px;
+  width: 100%;
+  background-color: white;
+  font-family: 'Gotham Pro';
+  font-weight: normal;
+  color: rgba(44, 43, 49, 1);
+}
+
+.main {
+  background: rgba(240, 240, 240, 1);
+
+}

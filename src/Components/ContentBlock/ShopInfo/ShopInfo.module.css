@@ -1,0 +1,10 @@
+.card_heading {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 12.07px;
+}
+
+.best__selling a {
+color: rgba(55, 217, 151, 1);
+}

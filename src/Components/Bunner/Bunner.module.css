@@ -1,0 +1,19 @@
+.section_bunner {
+    position: relative;
+}
+
+.bunner_body {
+    font-size: 0;
+}
+
+.block__timer {
+    position: absolute;
+    bottom: 13px;
+    left: 13px;
+}
+
+.block__price {
+    position: absolute;
+    bottom: 13px;
+    right: 13px;
+}

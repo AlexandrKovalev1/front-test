@@ -1,0 +1,27 @@
+.container {
+    padding: 0 13px;
+    padding-top: 10px;
+}
+
+.productItems_wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+.product__description {
+    font-size: 15.29px;
+}
+
+
+.stars_block{
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.fill_star{
+    fill:#F8B656;
+}
+
+.fill_star:not(:last-child) {
+    margin-right: 5px;
+}

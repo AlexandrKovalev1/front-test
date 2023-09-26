@@ -1,0 +1,18 @@
+.timer__wrapper {
+    display: grid;
+    place-items: center;
+    width: 103px;
+    height: 58px;
+    color: rgba(255, 255, 255, 1);
+    font-weight: 700;
+    border-radius: 7.1px;
+    background-color: rgba(241, 157, 47, 1);
+}
+
+.timer_heading {
+    font-size: 10.6px;
+}
+
+.timer_value {
+    font-size: 21.25px;
+}
